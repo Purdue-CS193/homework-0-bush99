@@ -1,7 +1,7 @@
 ## Welcome to GitHub Pages
 ##Tyler's First CS 193 Homework
 ### Some things I like about CS 193
--I think coding is cool
+- I think coding is cool
 - the professors seem really chill
 - I think it's fun to type on a computer
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
