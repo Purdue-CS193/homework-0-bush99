@@ -1,6 +1,6 @@
 
-##Tyler's First CS 193 Homework
-### Some things I like about CS 193
+## Tyler's First CS 193 Homework
+ Some things I like about CS 193
 - I think coding is cool
 - the professors seem really chill
 - I think it's fun to type on a computer
