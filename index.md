@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+
 ##Tyler's First CS 193 Homework
 ### Some things I like about CS 193
 - I think coding is cool
